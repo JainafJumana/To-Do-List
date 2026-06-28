@@ -53,7 +53,7 @@ To-Do-App/
 1. Download or clone the repository.
 
 ```
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/JainafJumana/To-Do-List.git
 ```
 
 2. Open the project folder.
