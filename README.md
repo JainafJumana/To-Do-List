@@ -46,21 +46,6 @@ To-Do-App/
 ├── misty-mountain.png
 └── README.md
 ```
-
----
-
-## 🚀 How to Run
-
-1. Download or clone the repository.
-
-```
-git clone https://github.com/JainafJumana/To-Do-List.git
-```
-
-2. Open the project folder.
-
-3. Run **index.html** using Live Server or any web browser.
-
 ---
 
 ## 💻 How It Works
